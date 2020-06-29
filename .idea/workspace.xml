@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f95b1b07-4203-4e02-8772-dd65ece181ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iPyTables" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aPj6zzbuVne1jjxdE1Rc8JYkxq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.firewall">
+    <configuration name="deneme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iPyTables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deneme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firewall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iPyTables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firewall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iPyTables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pypy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iPyTables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pypy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sniffer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="iPyTables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sniffer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.firewall" />
+        <item itemvalue="Python.deneme" />
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.sniffer" />
+        <item itemvalue="Python.pypy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95b1b07-4203-4e02-8772-dd65ece181ec" name="Default Changelist" comment="" />
+      <created>1586643951263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586643951263</updated>
+      <workItem from="1586643952431" duration="924000" />
+      <workItem from="1586891237000" duration="1377000" />
+      <workItem from="1587039234789" duration="9934000" />
+      <workItem from="1587739382189" duration="1208000" />
+      <workItem from="1591443777150" duration="4448000" />
+      <workItem from="1591543014136" duration="1342000" />
+      <workItem from="1591544380731" duration="1157000" />
+      <workItem from="1591624250737" duration="5355000" />
+      <workItem from="1591629800655" duration="1201000" />
+      <workItem from="1591826994098" duration="10264000" />
+      <workItem from="1592009317116" duration="2702000" />
+      <workItem from="1592048462325" duration="13241000" />
+      <workItem from="1592073056918" duration="7873000" />
+      <workItem from="1592131438668" duration="1565000" />
+      <workItem from="1592145073370" duration="18595000" />
+      <workItem from="1592168665394" duration="1000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="202" key="GridCell.Tab.0.bottom" timestamp="1592169666688">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.0.bottom/0.0.1366.737@0.0.1366.737" timestamp="1592169666688" />
+    <state width="1320" height="202" key="GridCell.Tab.0.center" timestamp="1592169666687">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.0.center/0.0.1366.737@0.0.1366.737" timestamp="1592169666687" />
+    <state width="1320" height="202" key="GridCell.Tab.0.left" timestamp="1592169666686">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.0.left/0.0.1366.737@0.0.1366.737" timestamp="1592169666686" />
+    <state width="1320" height="202" key="GridCell.Tab.0.right" timestamp="1592169666688">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="202" key="GridCell.Tab.0.right/0.0.1366.737@0.0.1366.737" timestamp="1592169666688" />
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom" timestamp="1592166866484">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.0.1366.737@0.0.1366.737" timestamp="1592166866484" />
+    <state width="1320" height="216" key="GridCell.Tab.1.center" timestamp="1592166866483">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.center/0.0.1366.737@0.0.1366.737" timestamp="1592166866483" />
+    <state width="1320" height="216" key="GridCell.Tab.1.left" timestamp="1592166866483">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.left/0.0.1366.737@0.0.1366.737" timestamp="1592166866483" />
+    <state width="1320" height="216" key="GridCell.Tab.1.right" timestamp="1592166866483">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.right/0.0.1366.737@0.0.1366.737" timestamp="1592166866483" />
+    <state x="347" y="0" width="672" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587040403985">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="347" y="0" width="672" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.737@0.0.1366.737" timestamp="1587040403985" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iPyTables$sniffer.coverage" NAME="sniffer Coverage Results" MODIFIED="1587042132925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iPyTables$gui.coverage" NAME="gui Coverage Results" MODIFIED="1592011092011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iPyTables$pypy.coverage" NAME="pypy Coverage Results" MODIFIED="1586891689457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iPyTables$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1592054013061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iPyTables$firewall.coverage" NAME="firewall Coverage Results" MODIFIED="1592168896065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
